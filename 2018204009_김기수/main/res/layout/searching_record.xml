@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/searching"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/information"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:text="기록 조회하기"
+        android:textSize="50px" />
+
+    <ListView
+        android:id="@+id/ListData"
+        android:layout_width="match_parent"
+        android:layout_height="300dp" />
+
+    <Button
+        android:id="@+id/searching_back"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="뒤로 가기" />
+
+</LinearLayout>

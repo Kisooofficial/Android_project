@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id = "@+id/seven_day"
+        android:title="7일 챌린지" />
+    <item android:id = "@+id/fifteen_day" android:title="15일 챌린지" />
+    <item android:id = "@+id/thirty_day" android:title="30일 챌랜지" />
+    <item android:id = "@+id/thirty_km" android:title="30km 챌린지" />
+    <item android:id = "@+id/fifty_km" android:title="50km 챌린지" />
+    <item android:id = "@+id/hundred_km" android:title="100km 챌린지" />
+</menu>
