@@ -1,4 +1,4 @@
-# Android_project
+# Kisoo's Running Application 
 This is a personal project that was carried out in Android programming, which was a lecture for the second semester of 2021.
 # What is this project?
 This project is a running application that was created based on the existing application called Nike Run. 
