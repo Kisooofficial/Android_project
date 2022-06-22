@@ -1,6 +1,5 @@
 # Android_project
 This is a personal project that was carried out in Android programming, which was a lecture for the second semester of 2021.
-***
 # What is this project?
 This project is a running application that was created based on the existing application called Nike Run. 
 In the past, Nike Run had the disadvantage that running and walking were not separate. 
