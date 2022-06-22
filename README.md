@@ -12,7 +12,12 @@ So, this running application is going to offer both.
 * Checking my status if you set a goal -> Complete!
 * Search whole History of Walking or Running -> Complete!
 * Running Challenge yourself -> Ongoing!
-# Which one did I use
-+ Java
+# Requirements
++ Java, Android Studio
 + DataBase
-+ Android Studio(Intent, Button, ListItem, RadioButton, progressbar etc..)
++ Intent
++ Button
++ RadioButton
++ SQLiteDataBase
++ ListItem
++ MenuBar
