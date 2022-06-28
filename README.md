@@ -23,7 +23,7 @@ So, this running application is going to offer both.
 + MenuBar
 
 # Flow Chart
-<img src = "https://user-images.githubusercontent.com/84063359/176102841-d7c8e4b0-3baa-49f1-8a4a-3b5933077326.png" width = "420" height = "560">
+<img src = "https://user-images.githubusercontent.com/84063359/176102841-d7c8e4b0-3baa-49f1-8a4a-3b5933077326.png" width = "660" height = "560">
 
 # Layout
 + Start Screen
