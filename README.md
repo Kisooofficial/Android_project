@@ -49,3 +49,6 @@ So, this running application is going to offer both.
 
 + Checking all record
 <img src = "https://user-images.githubusercontent.com/84063359/176102748-309b55b3-a3e4-4af7-9530-38d9c6451c7e.png" width = "240" height = "320">
+
+# More Details
+For more detail, Please refer to the attached Powerpoint for details. 
