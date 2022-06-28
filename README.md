@@ -24,6 +24,6 @@ So, this running application is going to offer both.
 
 # Layout
 + Start Screen
-+ 
-![image](https://user-images.githubusercontent.com/84063359/176101343-4c5daf7d-f079-4deb-ae57-9a16137f883c.png) ![image](https://user-images.githubusercontent.com/84063359/176101715-dd8b3dd3-7d9c-48ff-83e3-50a3ce4ff807.png)
+<img src = "https://user-images.githubusercontent.com/84063359/176101343-4c5daf7d-f079-4deb-ae57-9a16137f883c.png" width = "30%"> <img src = "https://user-images.githubusercontent.com/84063359/176101715-dd8b3dd3-7d9c-48ff-83e3-50a3ce4ff807.png" width = "30%">
+
 
